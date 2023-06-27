@@ -35,7 +35,7 @@ Next, clone your site to local machine. In order to build JavaScript files later
 $ bash tools/init
 ```
 
-> If you don't want to deploy your site on GitHub Pages, append option `--no-gh` at the end of the above command.
+> If you don't want to deploy your site on GitHub Pages, append option `--no-gh` at the end of the above command..
 {: .prompt-info }
 
 The above command will:
